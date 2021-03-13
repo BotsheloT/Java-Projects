@@ -1,2 +1,2 @@
 # Java-Projects
-Practice with OOP and Java Basics
+OOP fundamentals and Java Basics
